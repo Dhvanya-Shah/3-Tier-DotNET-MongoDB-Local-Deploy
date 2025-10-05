@@ -1,3 +1,11 @@
+This repo was used for learning purpose to deploy mongodb server and dotnet sdk to deploy 3 -tier app . 
+
+The code is provided by Devops shack / Aditya Jaiswal 
+
+Thank you. 
+
+
+
 # 3-Tier .NET & MongoDB Application
 
 This project is a 3-tier web application built with .NET and MongoDB. The application consists of a presentation layer, a business logic layer, and a data access layer. MongoDB is used as the database to store and manage application data.
